@@ -1,3 +1,3 @@
-# admin-custamastion
+# Admin-custamastion
 Batch -C
-Admin Customization Django
+Admin Customization using Django
